@@ -1,7 +1,5 @@
 # simpleRPG_ghostSlayer_with_C
-Simple RPG game written in C using Raylib built using CMake
-
-# C Game Project
+Simple RPG game written in C using Raylib built using CMake.
 
 This project is a game developed in C using the Raylib library. Raylib is a simple and easy-to-use library to enjoy videogames programming.
 
